@@ -9,7 +9,7 @@ Just clone this repo in your Sublime packages dir. For windows it's C:\Users\\<y
 
 ## Using
 
-You device should be connected and runned. Press Ctrl+u, Ctrl+w. You should see list of COM-ports. If not, somenthing goes wrong. Type Ctrl+` To see log.
+You device should be connected and runned. Press Ctrl+Alt+u, Ctrl+Alt+w. You should see list of COM-ports. If not, somenthing goes wrong. Type Ctrl+` To see log.
 
 ## TODO
 1. Error processing
