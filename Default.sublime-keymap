@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+alt+u","ctrl+alt+w"], "command": "smartjs_manager" }
+]
